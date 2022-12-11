@@ -20,3 +20,6 @@ The fantasy comes into play through sorcery. I like the word sorcery more than m
 
 Zero procedural generation, but quest lines will become available (or blocked) depending on what quests you fulfill (and even what quests you deny).  
 
+### Survival
+
+I'm not sure about the food or water. The whole "survival" aspect has the least of my confidence.
